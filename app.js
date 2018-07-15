@@ -35,7 +35,9 @@ app.get("/movie/:id", (req, res, next) => {
 app.get("/download/:path", (req, res, next) => {
   var movieDownloadPath = req.params.path;
   // Need to figure out how to copy to USB from here
-  fs.createReadStream(__dirname + "/movie/" + movieDownloadPath).pipe(fs.createWriteStream("needsToBeUsb.mp4"));
+  console.log("Copying: " + __dirname + "/movie/" + movieDownloadPath);
+  console.log("To: " + "/Volumes/THEFOOTBALL/Movies" + movieDownloadPath);
+  fs.createReadStream(__dirname + "/movie/" + movieDownloadPath).pipe(fs.createWriteStream("/Volumes/THEFOOTBALL/Movies/" + movieDownloadPath));
   res.status(200).send("It worked");
 });
 
