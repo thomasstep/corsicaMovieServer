@@ -1,2 +1,8 @@
 # corsicaMovieServer
-Serve for Corsica
+Server for Corsica
+
+Start with
+```
+npm install
+node app.js
+```
