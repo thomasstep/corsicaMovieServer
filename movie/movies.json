@@ -4,119 +4,50 @@
   "total_pages":	1,
   "results":	[
     {
-      "vote_count":	1741,
       "id":	19404,
-      "video":	false,
-      "vote_average":	"9.2",
       "title":	"Dilwale Dulhania Le Jayenge",
       "download_path": "/Dilwale.mp4",
-      "popularity":	"18",
-      "budget": "8,945",
       "price": "1.50",
       "poster_path":	"/Dilwale.jpg",
-      "original_language":	"hi",
-      "original_title":	"दिलवाले दुल्हनिया ले जायेंगे",
-      "genre_ids":	[
-        35,
-        18,
-        10749
-      ],
       "backdrop_path":	"/Dilwale.jpg",
-      "adult":	"false",
-      "overview":	"Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
-      "release_date":	"1995-10-20"
+      "overview":	"Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga."
     },
     {
-      "vote_count":	1741,
       "id":	1,
-      "video":	false,
-      "vote_average":	"9.2",
       "title":	"Lord Of The Rings: The Fellowship of the Ring",
       "download_path": "/LordOfTheRingsFellowship.mp4",
-      "popularity":	"200",
-      "budget": "93,000,000",
       "price": "1.50",
       "poster_path":	"/LordOfTheRingsFellowship.jpg",
-      "original_language":	"eng",
-      "original_title":	"Lord Of The Rings: The Fellowship of the Ring",
-      "genre_ids":	[
-        35,
-        18,
-        10749
-      ],
       "backdrop_path":	"/LordOfTheRingsFellowship.jpg",
-      "adult":	"false",
-      "overview":	"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron. ",
-      "release_date":	"1995-10-20"
+      "overview":	"A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron. "
     },
     {
-      "vote_count":	1741,
       "id":	2,
-      "video":	false,
-      "vote_average":	"9.2",
       "title":	"Lord Of The Rings: The Two Towers",
       "download_path": "/LordOfTheRingsTowers.mp4",
-      "popularity":	"611",
-      "budget": "94,000,000",
       "price": "1.50",
       "poster_path":	"/LordOfTheRingsTowers.jpg",
       "original_language":	"eng",
-      "original_title":	"Lord Of The Rings: The Two Towers",
-      "genre_ids":	[
-        35,
-        18,
-        10749
-      ],
       "backdrop_path":	"/LordOfTheRingsTowers.jpg",
-      "adult":	"false",
-      "overview":	" While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
-      "release_date":	"1995-10-20"
+      "overview":	" While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
     },
     {
-      "vote_count":	1741,
       "id":	3,
-      "video":	false,
-      "vote_average":	"9.2",
       "title":	"Lord Of The Rings: The Return of the King",
       "download_path": "/LordOfTheRingsReturn.mp4",
-      "popularity":	"363",
-      "budget": "94,000,000",
       "price": "1.50",
       "poster_path":	"/LordOfTheRingsReturn.jpg",
-      "original_language":	"eng",
-      "original_title":	"Lord Of The Rings: The Return of the King",
-      "genre_ids":	[
-        35,
-        18,
-        10749
-      ],
       "backdrop_path":	"/LordOfTheRingsReturn.jpg",
-      "adult":	"false",
-      "overview":	"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring. ",
-      "release_date":	"1995-10-20"
+      "overview":	"Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring. "
     },
     {
-      "vote_count":	1741,
       "id":	4,
-      "video":	false,
-      "vote_average":	"9.2",
       "title":	"Anchorman",
       "download_path": "/Anchorman.mp4",
-      "popularity":	"18.482",
-      "budget": "23458",
       "price": "1.50",
       "poster_path":	"/Anchorman.jpg",
-      "original_language":	"eng",
-      "original_title":	"Anchorman: The Legend of Ron Burgundy",
-      "genre_ids":	[
-        35,
-        18,
-        10749
-      ],
       "backdrop_path":	"/Anchorman.jpg",
-      "adult":	"false",
-      "overview":	"Ron Burgundy is San Diego's top-rated newsman in the male-dominated broadcasting of the 1970s, but that's all about to change for Ron and his cronies when an ambitious woman is hired as a new anchor. ",
-      "release_date":	"1995-10-20"
+      "overview":	"Ron Burgundy is San Diego's top-rated newsman in the male-dominated broadcasting of the 1970s, but that's all about to change for Ron and his cronies when an ambitious woman is hired as a new anchor. "
     }
-    ]
+  ]
 }
