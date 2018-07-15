@@ -12,7 +12,7 @@
       "download_path": "/testBird.mp4",
       "popularity":	"18.482",
       "budget": "8945",
-      "poster_path":	"/testBird.jpg",
+      "poster_path":	"/Dilwale.jpg",
       "original_language":	"hi",
       "original_title":	"दिलवाले दुल्हनिया ले जायेंगे",
       "genre_ids":	[
@@ -20,7 +20,7 @@
         18,
         10749
       ],
-      "backdrop_path":	"/testBird.jpg",
+      "backdrop_path":	"/Dilwale.jpg",
       "adult":	"false",
       "overview":	"Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
       "release_date":	"1995-10-20"
@@ -75,6 +75,28 @@
       "video":	false,
       "vote_average":	"9.2",
       "title":	"Lord Of The Rings: The Return of the King",
+      "download_path": "/LordOfTheRingsReturn.mp4",
+      "popularity":	"18.482",
+      "budget": "23458",
+      "poster_path":	"/LordOfTheRingsReturn.jpg",
+      "original_language":	"eng",
+      "original_title":	"Lord Of The Rings: The Return of the King",
+      "genre_ids":	[
+        35,
+        18,
+        10749
+      ],
+      "backdrop_path":	"/LordOfTheRingsReturn.jpg",
+      "adult":	"false",
+      "overview":	"Good trilogy",
+      "release_date":	"1995-10-20"
+    },
+    {
+      "vote_count":	1741,
+      "id":	4,
+      "video":	false,
+      "vote_average":	"9.2",
+      "title":	"Anchorman",
       "download_path": "/LordOfTheRingsReturn.mp4",
       "popularity":	"18.482",
       "budget": "23458",
